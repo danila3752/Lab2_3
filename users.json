@@ -1,0 +1,12 @@
+[
+  {
+    "id": 24,
+    "login": "hello",
+    "hashedPassword": "$2a$10$jgO216lXfipiaQD7JOE3WuFN0WZf7VVRpgEXjw/L2cunR2.2ToL.K"
+  },
+  {
+    "id": 25,
+    "login": "Beldan02@tut.by",
+    "hashedPassword": "$2a$10$1JR8Llz0FuPGCYc6QR3sGO4zrq8AGFTB3UdLsgSDnIsUPKqLFl3Ha"
+  }
+]
